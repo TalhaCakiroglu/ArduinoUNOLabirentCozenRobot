@@ -1,0 +1,14 @@
+proje -> çizgi izleme + bluetooth + denge + algoritma
+
+malzemeler:
+
+1 Arduino UNO +
+4 Çizgi sensörü -(stokta yok) 15.74tl
+2 Redüktörlü DC motor 6V 350 RPM veya 6V 250 RPM motor -
+1 L298N veya L293B Motor sürücüsü -
+1 HC06 Bluetooth devresi -
+1 MPU6050 GYRO - 15.49tl(stokta yok)
+2 9V güç - pil þok (13tl) yuva 2tl -
+
+
+6- Tahta ( 6 x 12x 0.5)
